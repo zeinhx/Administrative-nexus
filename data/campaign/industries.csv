@@ -1,0 +1,2 @@
+id,name,cost mult,build time,income,upkeep,downgrade,upgrade,tags,data,image,plugin,desc,order,disruptDanger
+ZEI_administration,Adminstrative complex,300,200,,60,,,"industry, industrial",,graphics/industry/commerce_low.png,buildings.administrativecomplex,"A labiryinthine network of bureaucratic offices and communication systems that allow for the centralized and efficient governing of the world, as well as acting as the seat of power for planetary governors",500,MEDIUM

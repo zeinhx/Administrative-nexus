@@ -1,0 +1,13 @@
+{
+    "id":"ZEI_admin_complex",  #For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"administrative complex",  #Displayed to the player
+	"author":"zeta_echo_indigo",
+    "utility":"false",
+	"version":"1.0.0",
+	"description":"adds an industry which increase the adminastrator capacity and provides a stability bonus to your colonies",
+    "gameVersion": "0.97a-RC6",
+  	"jars":["jars/administration.jar"],
+  	"modPlugin":"zeta_echo_indigo.administrativenexus.ZEI_adminPlugin",
+	  	"dependencies": [
+    ],
+}

@@ -1,0 +1,6 @@
+id,name,faction,desc,script,icon,order
+arms_dealer,Arms dealer,,"An independent arms dealer that provides everything from untraceable firearms to entrire ships that legally don't exist to anyone who has the credits for it, an operation of this scale can only be sustained by the cooperation with whoever runs the planet.",submarkets.Armsdealerplugin,,0
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
